@@ -1,0 +1,30 @@
+body{
+    background-color: #183945;
+}
+.navbar{
+    background-color:  #F2F2F2;
+   border-bottom: 5px solid #183945;
+}
+h5{
+    text-align: left;
+   
+    margin: 25px;;
+    color: black;
+    border-radius: 0px 0px 0px 0px;
+    border-bottom: 3px solid #F67C1F;
+}
+h5:hover{
+    border-bottom: 3px solid #183945;  
+}
+.search{
+    width: 500px;
+    margin: auto;
+    border-radius: 25px;
+    
+}
+.form-control{
+    background-color: #F2F2F2;
+    border: none;
+    border-radius: 10px;
+  
+}
