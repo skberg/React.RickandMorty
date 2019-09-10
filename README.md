@@ -7,4 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. cd in to the folder you just downlode
 4. when you see the name of the folder befor you pc name you can type the following compand in the cli: npm start 
 
+## or 
+if you wat to see the pags you can follow the link below
 
+https://elegant-visvesvaraya-a4ed71.netlify.com
