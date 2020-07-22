@@ -32,8 +32,8 @@ class CardPage extends React.Component{
                     status={this.state.character.status}
                     gender={this.state.character.gender}
                     location={this.state.character.location.name}
-                    origin={this.state.character.origin.name}>
-
+                    origin={this.state.character.origin.name}
+                    showLink={true}>
 
 
             </CharacterCard>)
@@ -48,7 +48,8 @@ class CardPage extends React.Component{
 
             <React.Fragment>
             <h1 className="hedign">{this.state.character.name}</h1>
-            <div className="cardelement">{characterCard}</div>
+            <div className="cardelement">{characterCard} </div>
+      
             </React.Fragment>
 
         )

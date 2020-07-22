@@ -29,6 +29,7 @@ const characterCard = (props) => {
             <hr />
             
             <div className="button">{linkButton} </div>
+           
          
 
    </div>

@@ -1,9 +1,13 @@
 .heding{
     color: #F2F2F2;
     text-align: center;
+    font-size: 8vw;
     margin: 10px auto;
     border-bottom: 4px solid orangered;
-    width: 40%; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+    
 }
 
 
